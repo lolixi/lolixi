@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lolixi
-- 👀 I’m interested in CTF
+- 👀 I’m interested in CTF and currently learning Reverse Engineering
 - 🌱 I’m currently learning python T_T
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
