@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yun
-- 👀 I’m interested in CTF and currently learning Reverse Engineering
+- 👀 I’m interested in CTF and currently learning Google Cloud Computing
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
