@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yun
-- 👀 I’m interested in Blue Team, SOC and currently I am an IT Security Officer
-- 🌱 I’m currently learning python, business continuity management, soc
-- 💞️ I’m looking to collaborate on BCM discussion
+- 👀 I’m interested in Blue Team, SOC and currently I am an Security Analyst
+- 🌱 I’m currently learning python, business continuity management, soc, risk management, GRC
+- 💞️ I’m looking to collaborate on BCM, RM, SOC, or Cybersecurity/IT related discussion
 - 📫 How to reach me, my linkedin: https://www.linkedin.com/in/yunitatri
 
 <!---
